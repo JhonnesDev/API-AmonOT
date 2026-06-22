@@ -1,0 +1,12 @@
+{
+  "name": "amonot-api",
+  "version": "1.0.0",
+  "description": "API backend para scraping do AmonOT",
+  "type": "module",
+  "scripts": {
+    "start": "node api/player.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
